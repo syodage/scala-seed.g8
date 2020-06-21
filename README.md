@@ -11,6 +11,7 @@ create a project using the gitter template locally run
 - Variable construct `$some_name;format="lower,hyphen"$`
     - `lower,hyphen` is same as `norm`
 
+
 Template license
 ----------------
 Written in 2020 by Syodage <shameerayodage@gmail.com> 
