@@ -1,0 +1,7 @@
+# Metals directories
+.metals
+metals.sbt
+.bloop
+
+# Target
+targe
