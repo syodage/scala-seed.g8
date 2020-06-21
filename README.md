@@ -1,5 +1,16 @@
 A [Giter8][g8] template for scala projects!
 
+### Manally test
+
+create a project using the gitter template locally run 
+`sbt new file://scala-seed.g8`
+
+### Gitter syntax
+- Use `default.properties` file to introduce variable
+- Directory renaming `$dir_name__norm$`
+- Variable construct `$some_name;format="lower,hyphen"$`
+    - `lower,hyphen` is same as `norm`
+
 Template license
 ----------------
 Written in 2020 by Syodage <shameerayodage@gmail.com> 
